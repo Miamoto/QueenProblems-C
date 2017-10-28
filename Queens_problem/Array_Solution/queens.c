@@ -1,10 +1,10 @@
-/************************************************************
-*					Rainhas.c (2017/2018) 					*
-*					-- Carlos Carvalho --			        *
-*															*
-* 		 > Program to solve N Queen Problem with 			*
-*		   Backtracking using one dimensional array.   	    *
-*************************************************************/
+/*****************************************************
+*				queens.c (2017/2018) 	
+*  				  Miamoto Musashi				 	
+*							        											
+* 	 > Program to solve N Queen Problem with 			
+*	   Backtracking using one dimensional array.   	    
+******************************************************
 
 
 /***********************************************************************************/
@@ -24,7 +24,6 @@
 
 int number_of_queens; 
 int result[MAX_QUEENS]; /* result[i]=j; means queen at i-th row is placed at j-th column. */
-									
 
 
 /************************************************************************************/
@@ -130,4 +129,3 @@ int main (int argc, char *argv[]){
 }
 
 /*---- End ---------------------------------------------------------------*/
-

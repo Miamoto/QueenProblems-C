@@ -12,7 +12,7 @@
 *
 *     	Copyright A.N.Other Co. 2017.  All rights reserved.
 * 
-* AUTHOR :    Carlos Carvalho        START DATE :    28 October 2017
+* AUTHOR :    Miamoto Musashi        START DATE :    28 October 2017
 *
 * CHANGES :
 *
