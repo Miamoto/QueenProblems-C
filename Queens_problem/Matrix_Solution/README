@@ -1,0 +1,25 @@
+/************************************************************
+*					  README (2017/2018) 					*
+*					-- Carlos Carvalho --			        *
+*						 28 October						    *
+* 		 > Program to solve N Queen Problem with 			*
+*		   Backtracking using Matrix.   	    			*
+*************************************************************/
+
+Prerequisites: No need to install softwares.
+
+Running the tests: Run the program by typing make in the console and after that type ./queens N, where N is the
+				   NxN problem with N Queens. The output will give a possible answer for the problem if exists.
+
+
+				   Example of Input: make
+				   			         ./queens 5 
+				   
+				   Example of Output: Lines: Solution: 
+											 0 0 0 1 0 0
+											 1 0 0 0 0 0
+											 0 0 0 0 1 0
+											 0 1 0 0 0 0
+											 0 0 0 0 0 1
+											 0 0 1 0 0 0
+									  			        
