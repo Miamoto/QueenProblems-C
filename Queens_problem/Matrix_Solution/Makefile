@@ -1,13 +1,12 @@
-#/************************************************************
-#*					 MakeFile (2017/2018) 					*
-#*					-- Carlos Carvalho --			        *
-#*						 28 October						    *
-#* 		 > Program to solve N Queen Problem with 			*
-#*		    using Matrix.      	   						    *
-#*************************************************************/
+/************************************************************
+*		     MAKEFILE (2017/2018) 		    *
+*		    -- Carlos Carvalho --	            *
+*							    *
+* 	 > Program to solve N Queen Problem with    	    *
+*	   Backtracking using one dimensional array.        *
+*************************************************************/
 
 CFLAGS = -g -Wall -pedantic 
-CFLAGNUMBERS = -g -Wall -pedantic -I/Numbers/ 
 CC = gcc
 
 all: queens

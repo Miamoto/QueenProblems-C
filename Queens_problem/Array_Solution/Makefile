@@ -1,10 +1,10 @@
-#/************************************************************
-#*					 MakeFile (2017/2018) 					*
-#*					-- Carlos Carvalho --			        *
-#*						 28 October						    *
-#* 		 > Program to solve N Queen Problem with 			*
-#*		    using Array.      	   						    *
-#*************************************************************/
+/************************************************************
+*		     MAKEFILE (2017/2018) 		    *
+*		    -- Carlos Carvalho --	            *
+*							    *
+* 	 > Program to solve N Queen Problem with    	    *
+*	   Backtracking using one dimensional array.        *
+*************************************************************/
 
 CFLAGS = -g -Wall -pedantic 
 CC = gcc
